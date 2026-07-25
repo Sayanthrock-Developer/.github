@@ -1,12 +1,58 @@
-## Hi there 👋
+# Sayanth Rock
+`Android Developer` • `Web Developer` • `UI/UX Designer`
 
-<!--
+---
 
-**Here are some ideas to get you started:**
+## 🧭 Directory
+- [About](#-about)
+- [Core Competencies](#-core-competencies)
+- [Projects](#-projects)
+- [Technical Stack](#-technical-stack)
+- [Contact](#-contact)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+## 👤 About
+Developer based in Kerala, India, specializing in maintainable mobile architectures, clean web interfaces, and visual assets. Focused on practical engineering over theoretical bloat.
+
+---
+
+## ⚡ Core Competencies
+* **Android Architecture**: Native mobile applications built with clean code and modern patterns.
+* **Interface Design**: Dark-theme layouts, responsive grids, rounded aesthetics, and clear hierarchy.
+* **Automation**: CI/CD workflows, build scripts, and development automation.
+
+---
+
+## 📁 Projects
+
+### 📱 Rock Wallpaper App
+* **Overview**: Native Android application built for fluid UI and media rendering.
+* **Repository**: `apps/rock-wallpaper`
+* **Focus**: Modular code, efficient image caching, dark-theme styling.
+
+### ⚙️ Android Firmware & ROM Porting
+* **Overview**: System-level tuning and custom firmware ports for MediaTek platforms.
+* **Focus**: Kernel optimization, system stability, hardware integration.
+
+### 🎨 Visual & Channel Branding (RUBIX GAMING)
+* **Overview**: Graphic assets, UI overlays, and visual design production.
+* **Focus**: Cinematic color grading, spatial spacing, clean typography.
+
+---
+
+## 🛠 Technical Stack
+
+| Domain | Technologies / Tools |
+| :--- | :--- |
+| **Languages** | Kotlin, Java, JavaScript, HTML5, CSS3 |
+| **Mobile** | Android SDK, Android Studio, Gradle |
+| **Tools & CI** | Git, GitHub Actions, VS Code |
+| **Design** | Figma, Mobile-first UI, Color Theory |
+
+---
+
+## 📬 Contact
+* **GitHub Profile**: [github.com/Sayanthrock](https://github.com/Sayanthrock)
+* **Location**: Kerala, India
+* 
